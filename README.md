@@ -1,3 +1,5 @@
+> **NOTE:** This fork of [Jolicode's Alloy-PullToRefresh widget](https://github.com/jolicode/Alloy-PullToRefresh) is basically the same thing with an attempt at a slightly simplified API, refer to the commits. A demo of this is available at [cornflakesuperstar Alloy-PullToRefresh-Example](https://github.com/cornflakesuperstar/Alloy-PullToRefresh-Example)
+
 # Alloy PullToRefresh
 
 ## Description
